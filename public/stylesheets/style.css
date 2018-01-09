@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.done td{
+  text-decoration: line-through;
+  color: #b8b8b8;
+}
+
+td span{
+  float: right;
+    color: lightgrey;
+}
+
+td span:hover{
+    color: rgb(112, 216, 181);
+    cursor: pointer;
+}
